@@ -27,6 +27,6 @@ class BlogViewModel : ViewModel() {
         list?.removeAt(index)
         listBlogLive.value = list
     }
-
     //Check pull request
+    //Check pull request 2
 }
